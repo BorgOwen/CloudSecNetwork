@@ -1,32 +1,63 @@
-# CloudSecNetwork
-This is a repository for the hands on tasks done during my participation in the CloudSecNetwork course
+# 🌩️ CloudSecNetwork
 
-# Task 1
- - Create an AWS account 
+This repository contains hands-on tasks completed as part of the **CloudSecNetwork** course, focusing on AWS cloud security, networking, and infrastructure deployment.
 
- # Task 2
- - Create an AWS Identity center, create a new user and assign them a permission set using the predefined SecurityAudit job function policy 
+---
 
- # Task 3
- - Launch a new windows Server EC instance using the Amazon windows server 2019 Base ami,ensure it is deployed in a public subnet and secured with a security group that permits RDP access port 3389 only from your public IP address 
+## ✅ Task List
 
- # Task 4
- - Create 2 seperate VPC's to simulate a multi-PVC architecture
+### 🔹 Task 1: Create AWS Account
+- Set up a new AWS account.
 
- # Task 5
- - Deploy Grafana(docker image) using amazon ECS with fargate 
+### 🔹 Task 2: AWS Identity Center
+- Create an **AWS Identity Center**
+- Add a new user
+- Assign a permission set using the predefined **SecurityAudit** job function policy.
 
- # Task 6
- - Deploy Metabase on Amazon ECS using fargate launch type and connect it to a PostgreSQL database hosted on Amazon RDS
+### 🔹 Task 3: Launch EC2 Instance (Windows)
+- Launch a **Windows Server 2019** EC2 instance using the Amazon-provided AMI.
+- Ensure it's deployed in a **public subnet**.
+- Configure a **security group** to allow **RDP (port 3389)** **only from your public IP address**.
 
- # Task 7
- - Deploy NGINX on Amazon ECS using fargate in a public subnet and add a CloudWatch dashboard with widgets for CPUUtilization and MemoryUtilization to monitor the ECS task in real time. For deeper insight, simulate load by stress testing the app and observe the metrics.
+### 🔹 Task 4: VPC Setup
+- Create **two separate VPCs** to simulate a **multi-VPC architecture**.
 
- # Task 8
- - Deploy a personal static website such as a resume, portfolio or about me page using Amazon S3 and cloudfront. HTML files will be uploaded to the S3 bucket, static website hosting should be enabled and bucket configured for public access. Cloudfront distribution should use S3 bucket as its origin to securely deliver content
+### 🔹 Task 5: Deploy Grafana on ECS Fargate
+- Deploy **Grafana (Docker image)** using **Amazon ECS with the Fargate launch type**.
 
- # Task 9
- - Pending 
+### 🔹 Task 6: Deploy Metabase with RDS
+- Deploy **Metabase** on ECS Fargate.
+- Connect it to a **PostgreSQL database** hosted on **Amazon RDS**.
 
- # Task 10
- - Pending
+### 🔹 Task 7: Deploy NGINX with CloudWatch Monitoring
+- Deploy **NGINX** on ECS using Fargate in a **public subnet**.
+- Add a **CloudWatch dashboard** with widgets for:
+  - **CPUUtilization**
+  - **MemoryUtilization**
+- Simulate load using stress testing and monitor real-time metrics.
+
+### 🔹 Task 8: Deploy a Static Website on S3 + CloudFront
+- Upload a personal static website (resume, portfolio, or about me page) to **Amazon S3**.
+- Enable **static website hosting** and configure public access.
+- Use **Amazon CloudFront** with the S3 bucket as origin to securely deliver content.
+
+### 🔹 Task 9: _(Pending)_
+
+### 🔹 Task 10: _(Pending)_
+
+---
+
+## 📁 Structure
+
+Each task may have associated:
+- Screenshots
+- Terraform/IaC templates
+- Notes or scripts
+
+> Stay tuned as I complete the remaining tasks and add more automation and monitoring tools!
+
+---
+
+## 🚀 Author
+**[Toluwabori Oguwenmo]**  
+CloudSecNetwork Participant | AWS & DevOps Enthusiast
