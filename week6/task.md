@@ -1,3 +1,7 @@
-Description - Create an AWS Identity center, create a new user and assign them a permission set using the predefined SecurityAudot job function policy 
+Description - Deploy Metabase on Amazon ECS using fargate launch type and connect it to a PostgreSQL database hosted on Amazon RDS
 
-Deliverables - Screenshots showing the identity Center Instance, user and assigned permission set
+Deliverables - Screenshots showing
+- RDS PostgrSQL instance details
+- ECS task definition and running service
+- Security group rules allowing traffic from ECS to RDS on port 5432
+- Metabase successful connection to the database

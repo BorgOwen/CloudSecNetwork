@@ -1,4 +1,4 @@
-Description - Create 2 seperate VPC's to stimulate a multi-PVC architecture
+Description - Create 2 seperate VPC's to simulate a multi-PVC architecture
 
 Deliverables - Screenshots showing
 - 2 VPC's and their CIDR blocks
