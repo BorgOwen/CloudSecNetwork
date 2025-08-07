@@ -113,11 +113,16 @@ Your HTML (and optional CSS/JS) files will be uploaded to the S3 bucket.
 
 ## 📸 Screenshots
 
-> 📁 Add your screenshots below (drag and drop or use Markdown image tags):
-
+- S3 Static Web Hosting Configuration
 * ![S3 Static Website Hosting Config](static-web-hosting.PNG)
+
+- Bucket Policy Screenshot
 * ![Bucket Policy Screenshot](bucket-policy.PNG)
+
+- CloudFront Settings
 * ![CloudFront Distribution Settings](cloudfront%20status.PNG)
+
+- Live Portfolio site
 * ![Live Website via CloudFront](portfolio%20live%20view.PNG)
 
 

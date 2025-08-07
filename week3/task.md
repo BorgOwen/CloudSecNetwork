@@ -57,7 +57,7 @@ Include screenshots of:
 
 ---
 
-## 📸 Example Screenshots to Include
+## 📸 Screenshots to Include
 
 - 💻 **Running EC2 Instance Security Group**   
   ![EC2 Running](windows%20server%20ec2.png)

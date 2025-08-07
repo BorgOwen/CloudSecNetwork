@@ -68,7 +68,11 @@ Create an S3 bucket that will automatically trigger a Lambda function whenever a
 
 ## 📸 Lambda Function Screenshot
 
-> Example Markdown:  
-> `![Lambda Code Screenshot](function_code.PNG)`
-> `![CloudWatch logs Screenshot](cloudwatch%20logs.PNG)`
-> `![Event trigger Screenshot](event_trigger-lambdafunction.PNG)`
+- Lambda Code
+* ![Lambda Code Screenshot](function_code.PNG)
+
+- CloudWatch logs
+* ![CloudWatch logs Screenshot](cloudwatch%20logs.PNG)
+
+- S3 Event Notification
+* ![Event trigger Screenshot](event_trigger-lambdafunction.PNG)

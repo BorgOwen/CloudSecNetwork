@@ -87,11 +87,16 @@ AWS Fargate lets you run containers without managing EC2 instances. Grafana will
 
 ## 📸 Screenshots
 
- 📁 Add screenshots here for documentation or submission:
-
+- ECS Cluster and Running Service 
 - ![ECS Cluster and Running Service ](ecs-cluster.PNG)
+
+- ECS Task Definition
 - ![ECS Task Definition with `grafana/grafana` image](task-definition.PNG)
+
+- Security Group showing port 3000 access
 - ![Security Group showing port 3000 access](security-group-3000.PNG)
+
+- Grafana Login Page in Browser 
 - ![Grafana Login Page in Browser](grafana-login.PNG)
 
 ---

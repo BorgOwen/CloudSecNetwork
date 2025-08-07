@@ -116,12 +116,19 @@ This setup allows Metabase to persist configurations and query data from the RDS
 
 ## 📸 Screenshots
 
-> 📁 Add screenshots here for documentation or submission:
-
+- RDS PostgreSQL Instance Details
 - ![RDS PostgreSQL Instance Details](rds-instance.PNG)
+
+- ECS Task Definition
 - ![ECS Task Definition](task%20definition.PNG)
+
+- ECS Cluster and Running Service
 - ![ECS Cluster and Running Service](ecs%20cluster-running%20service.PNG)
+
+- Metabase Homepage
 - ![Metabase Homepage](metabase%20homepage.PNG)
+
+- Metabase Connected to RDS Successful connection
 - ![Metabase Connected to RDS Successfully](successful%20metabase-postgrSQL%20connection.PNG)
 
 ---

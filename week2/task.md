@@ -60,7 +60,7 @@ Include the following screenshots:
 
 ---
 
-## 📸 Example Screenshots to Include
+## 📸 Screenshots to Include
 
 - ✅ **User and Assigned Permission Set**   
   ![Permission Set](identity%20center.png)

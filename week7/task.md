@@ -91,15 +91,10 @@ To simulate real-world behavior, apply **load testing** using tools like `curl`,
 ### ✅ STEP 5: Simulate Load (Optional but Recommended)
 
 1. Open a terminal and run a stress test:
+
    ```bash
    ab -n 1000 -c 100 http://<your-ecs-public-ip>/
-````
 
-or
-
-```bash
-while true; do curl http://<your-ecs-public-ip>/; done
-```
 
 2. Refresh your **CloudWatch dashboard** to see real-time updates in CPU and memory usage
 
@@ -107,11 +102,16 @@ while true; do curl http://<your-ecs-public-ip>/; done
 
 ## 📸 Screenshots
 
-> 📁 Add screenshots below for documentation and grading:
-
+- ECS Cluster and Running Service
 * ![ECS Cluster and Running Service](ecs-cluster-service.PNG)
+
+- ECS Task Definition Settings
 * ![ECS Task Definition Settings](task-definition-memory-cpu.PNG)
+
+- CloudWatch Dashboard
 * ![CloudWatch Dashboard with CPU/Memory Widgets](cloudwatch%20dashboard.PNG)
+
+- Simulated load results
 * ![Metrics Under Simulated Load](stress-test.PNG)
 
 ---
