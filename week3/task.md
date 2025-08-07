@@ -1,7 +1,6 @@
 
 ---
 
-```md
 # 🖥️ Launch Windows Server EC2 Instance on AWS
 
 ## 📝 Description
@@ -75,4 +74,3 @@ Include screenshots of:
 - Consider using a **bastion host or VPN** for production-level access security
 
 ---
-```

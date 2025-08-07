@@ -1,7 +1,6 @@
 
 ---
 
-```md
 # 📊 Deploy Grafana on Amazon ECS Using Fargate
 
 ## 📝 Description
@@ -96,5 +95,3 @@ AWS Fargate lets you run containers without managing EC2 instances. Grafana will
 - ![Grafana Login Page in Browser](grafana-login.PNG)
 
 ---
-
-```

@@ -1,7 +1,6 @@
 
 ---
 
-```md
 # 🔐 AWS Identity Center: User with SecurityAudit Permissions
 
 ## 📝 Description
@@ -75,4 +74,3 @@ Include the following screenshots:
 - You can test by logging in with the user’s credentials to confirm permissions are enforced.
 
 ---
-```

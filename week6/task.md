@@ -1,7 +1,5 @@
 
 ---
-
-```markdown
 # 📊 Deploy Metabase on Amazon ECS with PostgreSQL RDS
 
 ## 📝 Description
@@ -137,5 +135,3 @@ This setup allows Metabase to persist configurations and query data from the RDS
 - Metabase stores its metadata (users, dashboards, configs) in this connected DB, so ensure it's persistent and backed up
 
 ---
-
-```

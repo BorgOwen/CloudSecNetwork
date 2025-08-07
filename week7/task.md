@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # 🚀 Deploying NGINX on Amazon ECS with CloudWatch Monitoring
 
 ## 📝 Description

@@ -41,9 +41,14 @@ This repository contains hands-on tasks completed as part of the **CloudSecNetwo
 - Enable **static website hosting** and configure public access.
 - Use **Amazon CloudFront** with the S3 bucket as origin to securely deliver content.
 
-### 🔹 Task 9: _(Pending)_
+### 🔹 Task 9: Serve a secure, custom-domain website from S3 via CloudFront with HTTPS using a free Freenom domain and Route 53 DNS.
+- Register a free **domain name** on freenom.com and connect it to **AWS ROUTE 53**
+- Create a **cloudfront distribution** that serves your S3 static website
+- Validate a free **SSL certificate** using **ACM with DNS validation in route 53.**
 
-### 🔹 Task 10: _(Pending)_
+### 🔹 Task 10: S3-to-Lambda Trigger Setup
+- Create an S3 bucket
+- Create a **Lambda function and trigger**
 
 ---
 

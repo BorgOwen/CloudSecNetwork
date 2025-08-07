@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # 🌐 Personal Static Website Hosting with S3 + CloudFront
 
 ## 📝 Description
@@ -121,6 +120,5 @@ Your HTML (and optional CSS/JS) files will be uploaded to the S3 bucket.
 * ![CloudFront Distribution Settings](cloudfront%20status.PNG)
 * ![Live Website via CloudFront](portfolio%20live%20view.PNG)
 
-```
 
 ---

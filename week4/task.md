@@ -1,7 +1,6 @@
 
 ---
 
-```md
 # 🌐 Multi-VPC Architecture on AWS
 
 ## 📝 Description
@@ -91,5 +90,3 @@ For each VPC:
   ![Route Table Configs](vpc-b-route.png)
 
 ---
-
-```
