@@ -119,8 +119,6 @@ To simulate real-world behavior, apply **load testing** using tools like `curl`,
 ## 💡 Tips
 
 * If metrics don’t show up immediately, wait a few minutes or verify IAM roles are properly assigned (e.g., `CloudWatchLogsFullAccess`)
-* Use `nginx:alpine` for a smaller and faster image
-* You can also automate this using **Terraform** or **CloudFormation**
 
 ---
 

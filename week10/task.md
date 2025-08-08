@@ -66,7 +66,7 @@ Create an S3 bucket that will automatically trigger a Lambda function whenever a
 
 ---
 
-## 📸 Lambda Function Screenshot
+## 📸 Screenshots
 
 - Lambda Code
 * ![Lambda Code Screenshot](function_code.PNG)
